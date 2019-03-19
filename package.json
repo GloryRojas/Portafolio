@@ -1,0 +1,24 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "Portafolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GloryRojas/Portafolio.git"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "bootstrap"
+  ],
+  "author": "Glory Rojas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GloryRojas/Portafolio/issues"
+  },
+  "homepage": "https://github.com/GloryRojas/Portafolio#readme"
+}
