@@ -1,4 +1,7 @@
-import { header } from './templates/header-footer.js';
+import { header } from './templates/header.js';
+import { footer } from './templates/footer.js';
+
+
 const cambiarTmp = (hash) => {
     if (hash === '#/' || hash === '' || hash === '#') {
       return vistaTmp('#/home');
