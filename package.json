@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/GloryRojas/Portafolio/issues"
   },
-  "homepage": "https://github.com/GloryRojas/Portafolio#readme"
+  "homepage": "https://github.com/GloryRojas/Portafolio#readme",
+  "dependencies": {}
 }
