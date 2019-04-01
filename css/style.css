@@ -432,6 +432,11 @@ h5 {
 .box-intro .table-cell {
     display: table-cell;
     vertical-align: middle;
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .4)), url(https://user-images.githubusercontent.com/45070947/55303788-d1a3ed00-540d-11e9-97fb-9fb051c6f928.jpg);
+    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .4)), url(https://user-images.githubusercontent.com/45070947/55303788-d1a3ed00-540d-11e9-97fb-9fb051c6f928.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
 }
 
 .box-intro em {
@@ -446,12 +451,17 @@ b i:last-child {
 .box-intro h5 {
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: #999;
+    color: #ffbf00 ;
     line-height: 1.7;
     font-size: 30px;
 }
 
-
+.table-cell p{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: black;
+}
 /* mouse effect */
 
 .mouse {
@@ -908,7 +918,7 @@ footer img {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #999;
+    color: #393939;
     line-height: 50px;
 }
 
@@ -916,7 +926,7 @@ footer img {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 500;
-    color: #777;
+    color: #393939;
 }
 
 .top-bar p a {
