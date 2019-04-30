@@ -850,10 +850,6 @@ footer {
     margin-bottom: 0;
 }
 
-footer img {
-    margin: 10px;
-}
-
 
 /* backto top
 ==================================================*/
@@ -969,8 +965,6 @@ footer img {
 
 .size-50 {
     font-size: 5em;
-    /*color: #fff;
-    background: rgba(255, 191, 0, 0.8);*/
 }
 
 .service-box {
@@ -991,15 +985,12 @@ footer img {
 /* contact page
 ==================================================*/
 .contact{
-    display: contents;
     text-align: center;
 }
+
 .contact h5{
     margin-top: 5px;
     font-size: 15px;
-}
-.contact-info {
-    margin-bottom: 20px;
 }
 
 .contact-info i {
