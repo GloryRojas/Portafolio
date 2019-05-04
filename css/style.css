@@ -770,7 +770,9 @@ b i:last-child {
     width: 100%;
     font-weight: bold;
 }
-
+.item_info{
+    color: #ffbf00;
+}
 .portfolio_item .portfolio_item_hover .item_info span {
     display: block;
     color: #fff;
