@@ -1,11 +1,3 @@
-/*
-* Box Theme
-* Created by : Ahmed Eissa
-* website : www.ahmedessa.net
-* behance : https://www.behance.net/3essa
-*/
-
-
 /* Table of Content
 ==================================================
 	- Google fonts & font family -
@@ -65,10 +57,6 @@ a {
 
 .uppercase {
     text-transform: uppercase;
-}
-
-.h-30 {
-    height: 10px
 }
 
 .h-10 {
@@ -448,14 +436,6 @@ h4 {
 
 b i:last-child {
     color: #ffbf00 !important;
-}
-
-.box-intro h5 {
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    color: #ffbf00 ;
-    line-height: 1.7;
-    font-size: 30px;
 }
 
 .table-cell h2 {
@@ -1050,9 +1030,6 @@ footer {
     .box-headline {
         font-size: 70px;
     }
-    .box-intro h5 {
-        font-size: 30px;
-    }
     .box-primary-nav a {
         padding: 5px 1em;
         font-size: 14px;
@@ -1075,9 +1052,6 @@ footer {
     }
     .box-headline {
         font-size: 50px;
-    }
-    .box-intro h5 {
-        font-size: 20px;
     }
     .main-container {
         padding: 50px 0;
@@ -1105,9 +1079,6 @@ footer {
     }
     .box-headline {
         font-size: 30px;
-    }
-    .box-intro h5 {
-        font-size: 18px;
     }
     .top-bar h1 {
         font-size: 30px;
