@@ -681,6 +681,9 @@ b i:last-child {
 /* portfolio section
 ==================================================*/
 
+.portfolio{
+    display: block;
+}
 .portfolio .categories-grid span {
     font-size: 30px;
     margin-bottom: 30px;
@@ -795,7 +798,8 @@ b i:last-child {
 }
 
 .portfolio .categories-grid .categories ul li {
-    float: left;
+    align-content: center;
+    display: -webkit-inline-box;
 }
 
 .portfolio .categories-grid .categories ul li a {
